@@ -202,3 +202,6 @@ This repository serves as the official landing page for ACPsoft PDF Converter. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ACPsoft PDF Converter today!**
+
+---
+**Last updated:** 2026-11-06 23:59:59 UTC
